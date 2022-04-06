@@ -3,4 +3,10 @@
     color: lightyellow;
     height: 5px;
     width: 1px;
+    color: beige;
+}
+p{
+    background-color: beige;
+    color: rgb(rgb(22, 4, 4), rgb(15, 24, 15), rgb(27, 27, 85));
+    font-size: medium;
 }

@@ -8,3 +8,8 @@ p{
     color: lightyellow;
     color: beige;
 }
+h2{
+    font-size: 200%;
+    color: blueviolet;
+    animation: cubic-bezier(0.075, 0.82, 0.165, 1);
+}

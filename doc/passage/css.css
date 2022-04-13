@@ -6,10 +6,7 @@ p{
 .box{
     width: 500px;
     height: auto;
-    border: lightgray;
-    color: lightyellow;
-    color: beige;
-    border: 30px;
+    border: lightgray,30px;
     margin: auto;
     background-color: lightblue;
 }

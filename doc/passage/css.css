@@ -5,6 +5,7 @@ p{
 }
 .box{
     width: 500px;
+    height: auto;
     border: lightgray;
     color: lightyellow;
     color: beige;

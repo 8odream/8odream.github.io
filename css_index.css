@@ -6,7 +6,9 @@ title{
     font-size: large;
 }
 .box{
-    border:0ch;
+    width:auto ;
+    border: 3em;
+    box-shadow: 1cm,red;
 }
 h1{
     background-color: brown;

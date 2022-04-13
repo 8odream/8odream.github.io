@@ -4,11 +4,13 @@ p{
     font-size: large;
 }
 .box{
+    width: 500px;
     border: lightgray;
     color: lightyellow;
     color: beige;
     border: 30px;
     margin: auto;
+    background-color: lightblue;
 }
 h2{
     font-size: 200%;

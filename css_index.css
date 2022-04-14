@@ -6,7 +6,7 @@ title{
     font-size: large;
 }
 .box{
-    width:auto ;
+    width:30em ;
     border: 3em;
     box-shadow: 1cm,red;
 }
@@ -18,4 +18,7 @@ h1{
 }
 .body{
     background-color: aqua;
+}
+.link{
+    
 }

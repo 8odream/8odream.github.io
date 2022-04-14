@@ -6,9 +6,9 @@ p{
 .box{
     width: 80em;
     height: auto;
-    border:30px;
+    border:5px;
     border-color: bisque;
-    border-style:solid;
+    border-style:ridge;
     margin: auto;
     background-color: #daf6ff
 }

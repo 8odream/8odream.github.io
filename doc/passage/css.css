@@ -1,14 +1,16 @@
 p{
-    background-color: beige;
+    background-color: #daf6ff;
     color: black;
     font-size: large;
 }
 .box{
-    width: 50em;
+    width: 80em;
     height: auto;
-    border: lightgray,30px;
+    border:30px;
+    border-color: bisque;
+    border-style:solid;
     margin: auto;
-    background-color: lightblue;
+    background-color: #daf6ff
 }
 h2{
     font-size: 200%;

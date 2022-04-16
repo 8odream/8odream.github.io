@@ -20,5 +20,9 @@ h1{
     background-color: aqua;
 }
 .link{
-    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    font-size: 2em;
+    color: rgba(24, 55, 208, 0.292);
 }
+    

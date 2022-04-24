@@ -1,10 +1,9 @@
 function pass(pas){
-    var x
+    var x=document.getElementById('pas').value
     if(pas=='7758258'){
-        x=('https://8odream.github.io/doc/passage/人.html')}
+        document.getElementsById('1').innerHTML=('https://8odream.github.io/doc/passage/人.html')}
     else{
-        x=('密码错误')
+        document.getElementsById('1').innerHTML=('密码错误')
     }
     }
-    
-document.getElementsById('1').innerHTML=x
+

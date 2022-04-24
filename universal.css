@@ -1,0 +1,12 @@
+.lead{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    text-decoration: none;
+    height: 3em;
+    
+}
+.lead + .key{
+    width: 3em;
+}

@@ -7,7 +7,9 @@
     height: 3em;
     
 }
-.lead + a{
+img{
+    size: 3em;
+}
     
 }
 .lead + .key{

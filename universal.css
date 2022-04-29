@@ -2,7 +2,6 @@
     position: fixed;
     top: 0px;
     left: 0px;
-    display: flex;
     height: 3em;
     
 }
@@ -11,6 +10,7 @@ img{
 }
 .lead+li{
     text-decoration: none;
+    display: flex;
 }
 .lead + .key{
     width: 3em;

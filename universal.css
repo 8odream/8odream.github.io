@@ -8,7 +8,7 @@
 img{
     size: 3em;
 }
-.lead>li{
+li{
     text-decoration: none;
     display: flex;
 }

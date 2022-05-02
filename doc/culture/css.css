@@ -4,13 +4,14 @@ p{
     font-size: large;
 }
 .box{
-    width: 80%;
+    width: auto;
     height: auto;
     border:5px;
     border-color: bisque;
     border-style:ridge;
     background-color: #daf6ff;
 	text-align: center;
+    margin: 10em;
 }
 h2{
     font-size: 200%;

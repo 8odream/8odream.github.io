@@ -4,7 +4,7 @@ p{
     font-size: large;
 }
 .box{
-    width: max-content;
+    width: fit-content;
     height: auto;
     border:5px;
     border-color: bisque;

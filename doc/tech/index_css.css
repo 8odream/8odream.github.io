@@ -1,0 +1,12 @@
+div{
+    background: rgb(255, 255, 255);
+    margin: 8em;
+    border: 3px;
+    text-shadow: 1px rgba(29, 38, 74, 0.264);
+}
+p{
+    font-size: large;
+    color: rgba(60, 34, 232, 0.789);
+    
+}
+@import '/universal.css'

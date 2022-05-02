@@ -1,5 +1,5 @@
 body{
-    background:url(/BILIBILI_LOGO.png),repeat-y,center 0;
+    background:url(/bg.png),repeat-y,center 0;
 }
 title{
     color: aquamarine;
@@ -24,6 +24,12 @@ body{
     font-style: oblique;
     font-size: 2em;
     color: rgba(24, 55, 208, 0.292);
+}
+img{
+    height: max-content;
+    width: max-content/1.5;
+    left: -30%;
+    top: 50%;
 }
 @import "/universal.css"
     

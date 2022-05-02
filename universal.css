@@ -3,14 +3,13 @@
     top: 0px;
     left: 0px;
     height: 3em;
-    display: flex;
 }
 img{
     size: 3em;
 }
 li{
+    display: flexbox;
     text-decoration: none;
-    display: flex;
 }
 .lead + .key{
     width: 3em;

@@ -34,7 +34,12 @@ body{
 }
 .instructions{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+@media (min-width:15em){
+    .instructions{
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
 }
 .instructions>a:hover{
     text-decoration: solid;

@@ -32,4 +32,10 @@ body{
     left: -30%;
     top: 50%;
 }
-    
+.instructions{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.instructions>a:hover{
+    text-decoration: solid;
+}

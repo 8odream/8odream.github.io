@@ -1,4 +1,3 @@
-@import '/universal.css';
 div{
     background: rgb(255, 255, 255);
     margin: 8em;
@@ -8,5 +7,5 @@ div{
 p{
     font-size: large;
     color: rgba(60, 34, 232, 0.789);
-    
 }
+@import '/universal.css';

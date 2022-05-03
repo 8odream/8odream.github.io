@@ -3,7 +3,8 @@
     top: 0px;
     left: 0px;
     height: 3em;
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 3em;
 }
 img{
     size: 3em;

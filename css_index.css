@@ -7,8 +7,7 @@
 .comein{
     border-radius: 0px 100% 100% 0px/0px 50px 50px 0px;
     background: white;
-    width: max-content;
-    height: 75%;
+    height: max-content;
     animation: comein 3s;
 }
 body{

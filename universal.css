@@ -26,5 +26,5 @@ li{
 }
 a,a:hover,a:link,a:visited{
     text-decoration: none;
-    color: rgba(46, 138, 224, 0.438);
+    color: hsla(0, 96%, 52%, 0.439)
 }

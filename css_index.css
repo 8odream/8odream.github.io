@@ -1,6 +1,18 @@
 @import "/universal.css";
+@keyframes comein
+    {
+     0%{color:rgba(255, 255, 255, 0);background: rgba(255, 255, 255, 0);}
+     100%{background: white;height: max-content;width: 75%;};
+    }
+.comein{
+    border-radius: 0px 100% 100% 0px/0px 50px 50px 0px;
+    background: white;
+    height: max-content;
+    width: 75%;
+    animation: comein 3s;
+}
 body{
-    background:url(/bg.png),repeat-y,center 0;
+    background:fixed,url(/bg.png),;
 }
 title{
     color: aquamarine;

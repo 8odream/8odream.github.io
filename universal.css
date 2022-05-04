@@ -24,3 +24,7 @@ li{
     text-decoration: underline;
     text-decoration-color: rgb(249, 252, 252);
 }
+a,a:hover,a:link,a:visited{
+    text-decoration: none;
+    color: rgba(46, 138, 224, 0.438);
+}

@@ -1,3 +1,10 @@
+li{
+    display: block;
+    text-decoration:solid;
+    width: calc(25%-3em);
+    height: 95%;
+    font-size: large;
+}
 .lead{
     position: fixed;
     top: 0px;
@@ -9,14 +16,7 @@
 img{
     size: 3em;
 }
-li{
-    display: block;
-    text-decoration:solid;
-    width: calc(25%-3em);
-    height: 95%;
-    font-size: large;
 
-}
 .lead + .key{
     width: 3em;
 }

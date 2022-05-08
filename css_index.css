@@ -5,13 +5,14 @@
      100%{background: white;height: max-content;width: 75%;};
     }
 .comein{
-    border-radius: 0px 100% 100% 0px/0px 50% 50% 0px;
+    border-radius: 0px 65% 65% 0px/0px 50% 50% 0px;
     background: white;
     height: max-content;
     animation: comein 3s;
 }
 body{
     background:fixed,url(/bg.png),;
+    height: max-content;
 }
 title{
     color: aquamarine;

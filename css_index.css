@@ -7,13 +7,13 @@
 .comein{
     border-radius: 0px 65% 65% 0px/0px 50% 50% 0px;
     background: white;
-    height: max-content;
+    height: 100%;
     width: 75%;
     animation: comein 3s;
 }
 body{
-    background:fixed,url(/bg.png),;
-    height: max-content;
+    background:rgba(16, 98, 206, 0.507);
+    height: 100%;
 }
 title{
     color: aquamarine;
@@ -22,16 +22,10 @@ title{
 .box{
     width:30em ;
     border: 3em;
-    box-shadow: 1cm,red;
-}
-h1{
-    background-color: brown;
+    box-shadow: 1cm;
 }
 .wel{
     color: darkgray;
-}
-body{
-    background-color: rgba(206, 241, 241, 0.555);
 }
 .link{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;

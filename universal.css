@@ -1,7 +1,6 @@
 li{
     display: block;
     text-decoration:solid;
-    width: calc(25%-3em);
     height: 95%;
     font-size: large;
 }

@@ -1,21 +1,29 @@
 @import "/universal.css";
 @keyframes comein
     {
-     0%
-        {color:rgba(255, 255, 255, 0);
-        background: rgba(255, 255, 255, 0);
-        border-radius: 0px 65% 65% 0px/0px 50% 50% 0px;
-        height: 1vh;
-        width: 75%;
-        z-index: 2;};
-     100%
-        {background: white;height: max-content;width: 75%;
-        border-radius: 0px 65% 65% 0px/0px 50% 50% 0px;
-        background: white;
-        height: 1vh;
-        width: 75%;
-        animation: comein 3s;
-        z-index: 2;};
+    0%
+    {background: white;height: max-content;width: 75%;
+    border-radius: 0px 65% 65% 0px/0px 50% 50% 0px;
+    background: white;
+    height: 1vh;
+    width: 75%;
+    animation: comein 3s;
+    z-index: 2;};
+    0%
+    {color:rgba(255, 255, 255, 0);
+    background: rgba(255, 255, 255, 0);
+    border-radius: 0px 65% 65% 0px/0px 50% 50% 0px;
+    height: 1vh;
+    width: 75%;
+    z-index: 2;};
+    100%
+    {background: white;height: max-content;width: 75%;
+    border-radius: 0px 65% 65% 0px/0px 50% 50% 0px;
+    background: white;
+    height: 1vh;
+    width: 75%;
+    animation: comein 3s;
+    z-index: 2;};
     }
 .comein2{
     animation: comein 3s;

@@ -27,13 +27,19 @@
     }
 .comein2{
     animation: comein 3s;
+    background: white;height: max-content;width: 75%;
+    border-radius: 0px 65% 65% 0px/0px 50% 50% 0px;
+    background: white;
+    height: 100vh;
+    width: 75%;
+    animation: comein 3s;
+    z-index: 2;
 }
 .comein1{
     border-radius: 0px 65% 65% 0px/0px 50% 50% 0px;
     background: white;
     height: 1vh;
     width: 75%;
-    animation: comein 3s;
     display: none;
     z-index: 1;
 }
@@ -42,7 +48,6 @@
     background: white;
     height: 1vh;
     width: 75%;
-    animation: comein 3s;
     display: none;
     z-index: 0;
 }

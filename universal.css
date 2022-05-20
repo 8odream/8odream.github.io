@@ -10,7 +10,8 @@ li{
     left: 0px;
     height: 3em;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 3em;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    background: rgb(255, 255, 255);
 }
 img{
     size: 3em;

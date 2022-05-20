@@ -1,12 +1,11 @@
 var count=0;
-var fun2=document.getElementById(layer2);
-var fun1=document.getElementById(layer1);
-var fun0=document.getElementById(layer0);
+var fun2=document.getElementById('layer2');
+var fun1=document.getElementById('layer1');
+var fun0=document.getElementById('layer0');
 function count(){
     count+=1;
-    remove_layer1()
-    remove_layer2()
-
+    remove_layer1();
+    remove_layer2();
 }
 function remove_layer2(){
     if(count==1){

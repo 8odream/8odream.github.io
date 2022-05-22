@@ -6,6 +6,9 @@ function count(){
     num=num+1;
     remove_layer1();
     remove_layer2();
+    if(num=3){
+        num=0;
+    }
 }
 function remove_layer2(){
     if(num==1){

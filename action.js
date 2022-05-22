@@ -3,7 +3,7 @@ var fun2=document.getElementById('layer2');
 var fun1=document.getElementById('layer1');
 var fun0=document.getElementById('layer0');
 function count(){
-    num+=1;
+    num=num+1;
     remove_layer1();
     remove_layer2();
 }

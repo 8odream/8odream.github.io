@@ -9,13 +9,13 @@ function count(){
 }
 function remove_layer2(){
     if(num==1){
-        fun2.style.display='none';
-        fun1.style.display='block';
+        document.getElementById('layer2').style.display='none';
+        document.getElementById('layer1').style.display='block';
     }
 }
 function remove_layer1(){
     if(num==2){
-        fun1.style.display='none';
-        fun0.style.display='block';
+        document.getElementById('layer1').style.display='none';
+        document.getElementById('layer0').style.display='block';
     }
 }

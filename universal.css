@@ -8,8 +8,8 @@ li{
     position: fixed;
     top: 0px;
     left: 0px;
-    height: 3em;
-    width: 100vh;
+    height: 1em;
+    width: 100vw;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 3em;
     background: rgb(255, 255, 255);

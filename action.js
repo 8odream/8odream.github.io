@@ -1,5 +1,5 @@
 var num=0;
-function count(){
+function count_remove(){
     num=num+1;
     if(num==1){
         document.getElementById('layer2').style.display='none';

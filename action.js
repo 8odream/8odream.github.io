@@ -9,7 +9,7 @@ function count(){
     if(num=3){
         num=0;
         document.getElementById('layer2').style.display='block';
-        document.getElementById('layer0').style.display='none'
+        document.getElementById('layer0').style.display='none';
     }
 }
 function remove_layer2(){

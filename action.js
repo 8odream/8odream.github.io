@@ -1,7 +1,4 @@
 var num=0;
-var fun2=document.getElementById('layer2');
-var fun1=document.getElementById('layer1');
-var fun0=document.getElementById('layer0');
 function count(){
     num=num+1;
     if(num==1){

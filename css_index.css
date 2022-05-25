@@ -27,21 +27,22 @@
     background: white;
     height: 100vh;
     width: 75%;
-    animation: comein 3s;
     z-index: 2;
 }
 .comein1{
+    animation: comein 3s;
     border-radius: 0px 65% 65% 0px/0px 50% 50% 0px;
     background: white;
-    height: 1vh;
+    height: 100vh;
     width: 75%;
     display: none;
     z-index: 1;
 }
 .comein0{
+    animation: comein 3s;
     border-radius: 0px 65% 65% 0px/0px 50% 50% 0px;
     background: white;
-    height: 1vh;
+    height: 100vh;
     width: 75%;
     display: none;
     z-index: 0;

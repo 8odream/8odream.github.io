@@ -5,11 +5,11 @@ function count_remove(){
         document.getElementById('layer2').style.display='none';
         document.getElementById('layer1').style.display='block';
     }
-    if(num==2){
+    else if(num==2){
         document.getElementById('layer1').style.display='none';
         document.getElementById('layer0').style.display='block';
     }
-    if(num=3){
+    else{
         num=0;
         document.getElementById('layer2').style.display='block';
         document.getElementById('layer0').style.display='none';

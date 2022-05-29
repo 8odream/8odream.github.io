@@ -1,4 +1,3 @@
-@import "/universal.css";
 @keyframes comein
     {
     0%
@@ -15,9 +14,6 @@
     width: 75%;
     z-index: 2;};
     }
-@keyframes radiation{
-    
-}
 .lead{
     position: relative;
     top:2em;
@@ -31,6 +27,14 @@
     height: 100vh;
     width: 75%;
     z-index: 2;
+}
+@keyframes rotateimg{
+    0%{
+        transform:rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
 }
 .comein1{
     animation: comein 3s;
@@ -76,6 +80,9 @@ title{
     width: calc(max-content/1.5);
     left: -30%;
     top: 50%;
+}
+.bgimg:hover,.bgimg:active{
+    animation:rotateimg 2s infinite;
 }
 .instructions{
     display: grid;

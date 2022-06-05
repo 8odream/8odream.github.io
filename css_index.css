@@ -19,11 +19,6 @@
         transform: rotate(360deg);
     }
 }
-.lead{
-    position: relative;
-    top:2em;
-    left: 2em;
-}
 .comein2{
     animation: comein 3s;
     background: white;

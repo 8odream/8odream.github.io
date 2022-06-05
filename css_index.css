@@ -4,14 +4,12 @@
     color: rgba(255, 255, 255, 0);
     border-radius: 0px 0% 0% 0px/0px 50% 50% 0px;
     height: 100vh;
-    width: 75%;
-    z-index: 2;};
+    width: 75%;};
     100%
     {background: white;
     border-radius: 0px 65% 65% 0px/0px 50% 50% 0px;
     height: 100vh;
-    width: 75%;
-    z-index: 2;};
+    width: 75%;};
     }
 @keyframes rotateimg{
     0%{
@@ -32,18 +30,18 @@
     border-radius: 0px 65% 65% 0px/0px 50% 50% 0px;
     height: 100vh;
     width: 75%;
-    
-    z-index: 2;
+    position: absolute;
+    top: 0px;
 }
-
 .comein1{
     animation: comein 3s;
     border-radius: 0px 65% 65% 0px/0px 50% 50% 0px;
     background: white;
     height: 100vh;
     width: 75%;
+    position: absolute;
+    top: 0px;
     display: none;
-    z-index: 1;
 }
 .comein0{
     animation: comein 3s;
@@ -51,8 +49,9 @@
     background: white;
     height: 100vh;
     width: 75%;
+    position: absolute;
+    top: 0px;
     display: none;
-    z-index: 0;
 }
 body{
     background:rgba(16, 98, 206, 0.507);

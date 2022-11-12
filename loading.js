@@ -1,7 +1,3 @@
-if(window.onload==false){
-    document.getElementById('layer0').style.display='none';
-    document.getElementById('layer1').style.display='none';
-    document.getElementById('layer2').style.display='none';}
 if(window.onload==true){
     document.getElementById('loading').style.display='none';
     document.getElementById('layer0').style.display='solid';

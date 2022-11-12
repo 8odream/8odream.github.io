@@ -64,13 +64,7 @@ title{
     font-size: 2em;
     color: rgba(24, 55, 208, 0.292);
 }
-.bgimg{
-    height: calc(max-content);
-    width: calc(max-content/1.5);
-    left: -30%;
-    top: 50%;
-}
-.bgimg:hover,.bgimg:active{
+.buimg:hover,.buimg:active{
     animation:rotateimg 2s infinite;
 }
 .instructions{
